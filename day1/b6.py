@@ -1,3 +1,4 @@
+# in ra các số nguyên tố từ 1 đến n
 def nt(n):
     if (n < 2): 
         return False

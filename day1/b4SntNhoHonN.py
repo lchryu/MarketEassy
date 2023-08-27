@@ -1,3 +1,4 @@
+# in ra các số nguyên tố nhỏ hơn
 n = int(input("n = "))
 
 for i in range(1, n + 1):
